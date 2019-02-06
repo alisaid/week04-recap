@@ -15,8 +15,8 @@ function calculatePriceWithQuantity(price, quantity){
     return price * quantity;
 }
 
-function calculateTotalPriceOfTheBasket(baget, butter, milk){
-    return baget + butter + milk;
+function calculateTotalPriceOfTheBasket(item1, item2, item3){
+    return item1 + item2 + item3;
 }
 
 function formatThePrice(totalPrice){
