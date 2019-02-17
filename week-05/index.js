@@ -8,7 +8,6 @@ function getTheSecondLargest(arr) {
 
 function isLeapYearWithIfElse(year) {
    // return true/false if the given year parameter is a leap year
-   // use if/else statement
 }
 
 function isLeapYearWithSwitch(year) {
